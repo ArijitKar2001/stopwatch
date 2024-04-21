@@ -9,6 +9,7 @@ body{
     background: linear-gradient(130deg, rgba(213,10,212,1) 17%, rgba(53,53,185,1) 50%, rgb(40, 192, 222, 1) 83%);
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .container{
     min-width: 500px;
